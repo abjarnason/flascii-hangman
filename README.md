@@ -1,5 +1,5 @@
 # flascii-hangman
-```bash
+```
 $ pip install virtualenv
 $ cd flascii-hangman
 $ virtualenv venv
